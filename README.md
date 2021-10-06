@@ -12,16 +12,63 @@
 # Interview
 
 ## Target audience
-
+1. Government officials who are in charge of food & nutrition assistance. For example, officials in the U.S. DEPARTMENT OF AGRICULTURE. 
+2. Individuals who are concerned of food inequality issue in his or her community and eager to offer help.
 
 ## Approach to identifying representative individuals to interview
-
+It is difficult to find government officials in charge of food & nutrition assistance to interview. However, I have found two classmates who have worked for U.S Food & Drug Departments before. The other interviewee is also a classmate who grow up in Pittsburgh. He knows much information about the situation of food insecurity in Pittsburgh and his family makes regular donation to the community. 
 
 ## Interview Script
+Interviewee 1:
+- Can you tell me what you think this is?
+It is like a brochure calling people to help Black communities who are suffering food insecurity. 
 
+- Can you describe to me what this is telling you?
+Food insecurity issue has been disproportionately affecting Black communities and the situation is even worse during the pandemic.
+
+- Is there anything you find surprising or confusing?
+Not really, its pretty clear.
+
+- Who do you think is the intended audience for this?
+Basically everyone could be your audience. 
+
+- Is there anything you would change or do differently?
+Too many words. People may be unwilling to read all those stuff.
+
+Interviewee 2:
+- Can you tell me what you think this is?
+It emphasizes why food insecurity disproportionately affect Blacks and it proposes some suggestions.
+
+- Can you describe to me what this is telling you?
+It will be difficult to solve racial inequity in food but immediate action is needed.
+
+- Is there anything you find surprising or confusing?
+No, it is logic.
+
+- Who do you think is the intended audience for this?
+Government?
+
+- Is there anything you would change or do differently?
+You can add some explanations in donation part and cut some words in analysis part.
+
+Interviewee 3:
+- Can you tell me what you think this is?
+A proposal for saving Black people from food insecurity.
+
+- Can you describe to me what this is telling you?
+Everyone can make efforts to solve food insecurity issue among black communities.
+
+- Is there anything you find surprising or confusing?
+It makes sense. Nothing confuses me.
+
+- Who do you think is the intended audience for this?
+You have made it clear in recommendation section that government and common people are targets.
+
+- Is there anything you would change or do differently?
+You might want to add more links directing audience to some useful websites.
 
 ## Findings from the interview
-
+Interviwees are generally satisfy with the logic of the story but they pointed out that audience may be tired of too many word. Besides, I could provide useful links to them.
 
 ## Plan of Changes
-
+cut some paragraphs and add some simple titles instead. Find some useful links for recommendation part.
