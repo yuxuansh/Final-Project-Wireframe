@@ -1,4 +1,4 @@
-# Final-Project-Wireframe
+# Final-Project-Part 2
 <img width="457" alt="Screen Shot 2021-10-05 at 10 55 15 AM" src="https://user-images.githubusercontent.com/89853804/136047923-2d5e418a-8d07-4fdb-83ba-53334c3fa9e8.png">
 
 <img width="458" alt="Screen Shot 2021-10-05 at 10 55 42 AM" src="https://user-images.githubusercontent.com/89853804/136048017-f2b2b576-1102-466f-8d53-91a6b122e6de.png">
